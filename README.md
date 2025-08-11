@@ -1,5 +1,5 @@
 # Project Title: Netflix Recommendation System using the surprise library
-## Capstone Project - IIT Madras (PgD in DSAI)
+## Capstone Project - IIT Roorkee 
 
 ## Project Overview:
 I recently completed a project that aimed to build a recommendation system for Netflix using the surprise library. The project involved collecting data on movie ratings, preprocessing the data, and training a machine learning model for recommendation. The trained model was then used to make recommendations to Netflix users.
